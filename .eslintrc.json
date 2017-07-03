@@ -1,0 +1,7 @@
+{
+	"extends": ["airbnb"],
+	"plugins": ["node"],
+	"rules": {
+		"node/exports-style": ["error", "module.exports"]
+	}
+}
